@@ -1,0 +1,24 @@
+{
+    "name": "discord-banner-uploader",
+    "version": "1.0.0",
+    "description": "This project is using unsplash to automatically change your discord banner every day.",
+    "main": "src/app.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/TenViki/discord-banner-uploader.git"
+    },
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/TenViki/discord-banner-uploader/issues"
+    },
+    "homepage": "https://github.com/TenViki/discord-banner-uploader#readme",
+    "dependencies": {
+        "axios": "^0.21.1",
+        "config": "^3.3.6",
+        "node-schedule": "^2.0.0"
+    }
+}
